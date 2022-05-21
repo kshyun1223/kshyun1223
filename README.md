@@ -1,4 +1,4 @@
-# 학습내용
+# 공부기록
 * [생활코딩 WEB1 - HTML & Internet 수업](https://github.com/kshyun1223/web1_html_internet)
 <br>
 
