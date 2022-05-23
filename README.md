@@ -1,6 +1,6 @@
-# 공부기록
-* [생활코딩 WEB2 - CSS 수업](https://github.com/kshyun1223/web2_css)
-* [생활코딩 WEB1 - HTML & Internet 수업](https://github.com/kshyun1223/web1_html_internet)
+# 작품목록
+* [생활코딩 WEB2 - CSS 수업 실습과제](https://github.com/kshyun1223/web2_css)
+* [생활코딩 WEB1 - HTML & Internet 수업 실습과제](https://github.com/kshyun1223/web1_html_internet)
 <br>
 
 # 자기소개
