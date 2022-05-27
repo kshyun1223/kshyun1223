@@ -1,9 +1,9 @@
-# 작품목록
-* [생활코딩 WEB2 - CSS 수업 실습작품](https://github.com/kshyun1223/web2_css)
-* [생활코딩 WEB1 - HTML & Internet 수업 실습작품](https://github.com/kshyun1223/web1_html_internet)
+# Education 
+* [생활코딩 WEB2 - CSS 수업](https://github.com/kshyun1223/web2_css)
+* [생활코딩 WEB1 - HTML & Internet 수업](https://github.com/kshyun1223/web1_html_internet)
 <br>
 
-# 자기소개
+# Profile
 ### 이력
 * 문화기획학과 졸업 (문학사 학위) → 일반행정직 공시생 → 전기분야 훈련생 → 공공기관 시설직
 <br>
