@@ -1,4 +1,5 @@
-# Education 
+# Education
+* [생활코딩 WEB2 - Python 수업 (진행중)](https://github.com/kshyun1223/web2_python)
 * [생활코딩 WEB2 - JavaScript 수업](https://github.com/kshyun1223/web2_javascript)
 * [생활코딩 WEB2 - CSS 수업](https://github.com/kshyun1223/web2_css)
 * [생활코딩 WEB1 - HTML & Internet 수업](https://github.com/kshyun1223/web1_html_internet)
