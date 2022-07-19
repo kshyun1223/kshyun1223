@@ -1,5 +1,6 @@
 # Education
-* [생활코딩 WEB2 - Python 수업](https://github.com/kshyun1223/web2_python)
+* [생활코딩 WEB3 - React 수업] (https://github.com/kshyun1223/web3_react) 
+- [생활코딩 WEB2 - Python 수업](https://github.com/kshyun1223/web2_python)
 * [생활코딩 WEB2 - JavaScript 수업](https://github.com/kshyun1223/web2_javascript)
 * [생활코딩 WEB2 - CSS 수업](https://github.com/kshyun1223/web2_css)
 * [생활코딩 WEB1 - HTML & Internet 수업](https://github.com/kshyun1223/web1_html_internet)
@@ -7,7 +8,7 @@
 
 # Profile
 ### 이력
-* 문화기획학과 졸업 (문학사 학위) → 일반행정직 공시생 → 전기분야 훈련생 → 공공기관 시설직
+* 문화기획학과 졸업 (문학사 학위) → 일반행정직 공시생 → 전기분야 훈련생 → 공공기관 시설직 → 대전그린컴퓨터아트학원 재학
 <br>
 
 ### 개발자가 되기로 한 이유
