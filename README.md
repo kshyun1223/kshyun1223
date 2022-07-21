@@ -3,7 +3,6 @@
   - 기업에서 요구하는 프레임워크를 활용한 풀스택 개발자(NODE,ECMAscript) 양성 과정 (K-Digital Training)  
   
 - 생활코딩
-  - [WEB3 - React 수업 (진행중)](https://github.com/kshyun1223/web3_react)
   - [WEB2 - Python 수업](https://github.com/kshyun1223/web2_python)
   - [WEB2 - JavaScript 수업](https://github.com/kshyun1223/web2_javascript)
   - [WEB2 - CSS 수업](https://github.com/kshyun1223/web2_css)
