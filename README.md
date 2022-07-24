@@ -1,6 +1,6 @@
 # Education
 - 대전 그린컴퓨터아트학원
-  - [기업에서 요구하는 프레임워크를 활용한 풀스택 개발자(NODE,ECMAscript) 양성 과정 (K-Digital Training)](https://github.com/kshyun1223/lecture_fullstack)
+  - [기업에서 요구하는 프레임워크를 활용한 풀스택 개발자(NODE, ECMAscript) 양성 과정 (K-Digital Training)](https://github.com/kshyun1223/lecture_fullstack)
   
 - 생활코딩
   - [WEB2 - Python 수업](https://github.com/kshyun1223/web2_python)
